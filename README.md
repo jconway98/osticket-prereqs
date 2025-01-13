@@ -36,6 +36,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - From the “osTicket-Installation-Files” folder install the Rewrite Module (rewrite_amd64_en-US.msi)
 
+![image](https://github.com/user-attachments/assets/67ecdfa7-eabe-4a6f-ac52-e5a44f248c7d)
+
 - Create the directory C:\PHP
 
 - From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
